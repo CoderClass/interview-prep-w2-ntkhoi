@@ -6,6 +6,7 @@
 What you will submit:
 - A GitHub repo with this README file (with the boxes checked).
 - Create a GIF showing your Interviewbit dashboard (see below) showing exercises you've done.
+![GitHub Logo](interview-prep-w2-ntkhoi/pre_interview2.gif)
 
 ### Required tasks
 
