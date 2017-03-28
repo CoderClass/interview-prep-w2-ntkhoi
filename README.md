@@ -13,10 +13,10 @@ What you will submit:
 
 - [X] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
   - I have learned that :  The way to caculate Big 
-..* Difirrent steps added
-..* Drop contants 
-..* Diffirence inputs -> defirrent variables .
-..* Drop non-domirate terms.
+* Difirrent steps added
+* Drop contants 
+* Diffirence inputs -> defirrent variables .
+* Drop non-domirate terms.
 - [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
   - I have learned that...
 - [X] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
