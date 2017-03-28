@@ -11,19 +11,23 @@ What you will submit:
 
 **Big O Notation**
 
-- [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
-  - I have learned that...
+- [X] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+  - I have learned that :  The way to caculate Big 
+..* Difirrent steps added
+..* Drop contants 
+..* Diffirence inputs -> defirrent variables .
+..* Drop non-domirate terms.
 - [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
   - I have learned that...
-- [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
-  - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
+- [X] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
+  - This sheet makes more sense to me.  I understood the  time Complexity and space complexity of some basic data struct : array , link list , hash table ...
 - [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
   - I have learned that...
   
 **Hashtables**
 
-- [ ] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
-- [ ] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
+- [X] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
+- [X] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
 - [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
