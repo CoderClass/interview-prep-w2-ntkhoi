@@ -12,16 +12,17 @@ What you will submit:
 **Big O Notation**
 
 - [X] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
-  - I have learned that :  The way to caculate Big 
+  - I have learned that :  The way to caculate Big O
 * Difirrent steps added
 * Drop contants 
 * Diffirence inputs -> defirrent variables .
 * Drop non-domirate terms.
-- [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
-  - I have learned that...
+- [X] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
+  - I have learned that : How an algorithm scales: 
+  
 - [X] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet makes more sense to me.  I understood the  time Complexity and space complexity of some basic data struct : array , link list , hash table ...
-- [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
+- [X] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
   - I have learned that...
   
 **Hashtables**
@@ -30,19 +31,19 @@ What you will submit:
 - [X] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
-- [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
-- [ ] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
+- [X] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
+- [X] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
 
 **Coding**
 
-- [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
-- [ ] Finish at least 2 tasks on Exercism
+- [X] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
+- [X] Finish at least 2 tasks on Exercism
 
 ### Optional tasks
 
 Some tasks are the same as optional tasks in Assignment 1.
 
 - [ ] Do more tasks on exercism
-- [ ] Finish [Time Complexity chapter](https://www.interviewbit.com/courses/programming/topics/time-complexity) in Level 1 of Interviewbit
-- [ ] Finish [Arrays chapter]((https://www.interviewbit.com/courses/programming/topics/arrays/)) in Level 2 of Interviewbit
+- [x] Finish [Time Complexity chapter](https://www.interviewbit.com/courses/programming/topics/time-complexity) in Level 1 of Interviewbit
+- [x] Finish [Arrays chapter]((https://www.interviewbit.com/courses/programming/topics/arrays/)) in Level 2 of Interviewbit
 - [ ] Finish [Math chapter](https://www.interviewbit.com/courses/programming/topics/math/) in Level 2 of Interviewbit.
