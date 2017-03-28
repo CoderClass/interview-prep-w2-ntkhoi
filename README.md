@@ -7,7 +7,7 @@ What you will submit:
 - A GitHub repo with this README file (with the boxes checked).
 - Create a GIF showing your Interviewbit dashboard (see below) showing exercises you've done.
 
-[Gif](https://github.com/CoderClass/interview-prep-w2-ntkhoi/blob/master/pre_interview2.gif)
+![Gif](https://github.com/CoderClass/interview-prep-w2-ntkhoi/blob/master/pre_interview2.gif)
 
 ### Required tasks
 
