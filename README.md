@@ -31,8 +31,8 @@ What you will submit:
 
 - [X] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
 - [X] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
-
-Extras: 
+  - I have learned that : A hash table is a data structure for storing key-value pairs. Hash table like an array of link list .Hash table have A hash function decides where to store and retrieve items in a hash table . Collisions occurs when hash function return the same index for diffirence key. 
+  
 - [X] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
 - [X] [Hash Table Algorithms](https://www.youtube.com/watch?v=Ke_tII6Y0GE) (7m)
 
